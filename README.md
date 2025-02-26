@@ -52,6 +52,14 @@ Leaflet.js – Library for interactive map rendering.
 D3.js – Fetches and processes earthquake data from the USGS API.
 GeoJSON – Format for earthquake and tectonic plate data.
 
+# Technologies Used
+
+__JavaScript__: Handles data processing and interactivity.
+
+__Leaflet.js__: Renders the interactive map and plots earthquake locations.
+
+__D3.js__: Fetches and processes GeoJSON data from the USGS API.
+
 # How to Use
 
 1. Clone this repository to your local environment.
